@@ -1,0 +1,8 @@
+.env
+.DS_Store
+GPT enriched semantic search.code-workspace
+similarity.csv
+.venv
+.vscode
+_*
+.DS_Store
